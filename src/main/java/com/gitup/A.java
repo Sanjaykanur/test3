@@ -8,5 +8,8 @@ public class A {
 
     public int getC() {
         return c;
+        int d = 14;
+        int e = c-d;
+        return d;
     }
 }
